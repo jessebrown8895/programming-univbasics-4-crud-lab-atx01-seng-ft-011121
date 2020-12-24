@@ -41,5 +41,5 @@ end
 
 def update_element_from_index(array, index_number, element)
 arrayname = ["wow", "Basketball", "Volleyball","am" "Kickball", "Softball", "arrays!"]
-arrayname[8 == "totally"]
+arrayname[7] = "totally"
 end
